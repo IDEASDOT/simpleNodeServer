@@ -1,0 +1,18 @@
+{
+  "dependencies": {},
+  "name": "nodehttp",
+  "version": "1.0.0",
+  "description": "Cool server on node js",
+  "main": "server.js",
+  "repository": "https://github.com/IDEASDOT/nodejsSimpleServer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "JQ",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
